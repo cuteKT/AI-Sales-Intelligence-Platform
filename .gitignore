@@ -1,0 +1,6 @@
+.env
+__pycache__/
+olist-data/
+*.db
+*.sqlite
+*.pyc
